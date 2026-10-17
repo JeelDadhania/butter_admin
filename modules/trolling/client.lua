@@ -1,3 +1,6 @@
+-- The UFO kidnap, ghost and kidnap van trolls are adapted from tgiann-admin-troll
+-- (https://github.com/tgiann/fivem-tgiann-admin-troll, GPL-3.0).
+
 local DRUNK_CLIPSET = 'move_m@drunk@verydrunk'
 local DRUNK_DURATION = 30000
 local DRUNK_DRIVING_ACTIONS = { 1, 7, 8, 23, 4, 5 }

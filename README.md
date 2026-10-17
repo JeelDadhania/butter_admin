@@ -234,3 +234,7 @@ Rules the UI follows: no `box-shadow` (including Tailwind `shadow-*` and `ring-*
 - "Force Animation" only runs commands listed in `Config.Fun.ForceCommandWhitelist`.
 - The Resources page cannot stop or restart `butter_admin` itself.
 - Keep `all` and `page.accesscontrol` for trusted staff.
+
+## Credits
+
+- The UFO kidnap, ghost and kidnap van trolls in `modules/trolling/client.lua` (with their values in `config/config_fun.lua`) are adapted from [fivem-tgiann-admin-troll](https://github.com/tgiann/fivem-tgiann-admin-troll) by tgiann, licensed under GPL-3.0. They were ported from TypeScript to Lua and modified.
