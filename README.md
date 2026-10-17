@@ -1,10 +1,15 @@
 # butter_admin
 
+> **butter_admin is finally available for free on [GitHub](https://github.com/kavyasingh8/butter_admin)!**
+
 Admin menu for FiveM with a React UI, rank based access control, player reports, bans, audit logs, a database browser and bridges for the common Qbox, QBCore and ESX resources.
 
 **Authors:** ButterChilly & Guardian
-**Version:** 2.0.0
+**Version:** 1.0.3
 **Game:** GTA V, fx_version `cerulean`, Lua 5.4
+**Download:** [github.com/kavyasingh8/butter_admin](https://github.com/kavyasingh8/butter_admin)
+
+> AI tools were used to help with parts of this resource, and everything was reviewed and tested by hand.
 
 ## Requirements
 
