@@ -1,7 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-use_experimental_fxv2_oal 'yes'
 
 name 'butter_admin'
 author 'ButterChilly & Guardian'
@@ -90,10 +89,4 @@ files {
     'web/assets/**/*',
     'locales/*.json',
     'sounds/*.ogg',
-}
-
-escrow_ignore {
-    'bridge/**/*',
-    'config/*',
-    'locales/*',
 }
